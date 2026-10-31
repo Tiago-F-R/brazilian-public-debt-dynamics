@@ -1,0 +1,70 @@
+{
+  "sgs_13762": {
+    "key": "dbgg",
+    "file": "sgs_13762_20261030.csv",
+    "downloaded": "20261030",
+    "n_obs": 238,
+    "first": "2006-12-01",
+    "last": "2026-09-01"
+  },
+  "sgs_4513": {
+    "key": "dlsp",
+    "file": "sgs_4513_20261030.csv",
+    "downloaded": "20261030",
+    "n_obs": 298,
+    "first": "2001-12-01",
+    "last": "2026-09-01"
+  },
+  "sgs_5793": {
+    "key": "primary_consolidated",
+    "file": "sgs_5793_20261030.csv",
+    "downloaded": "20261030",
+    "n_obs": 287,
+    "first": "2002-11-01",
+    "last": "2026-09-01"
+  },
+  "sgs_5783": {
+    "key": "primary_federal_bcb",
+    "file": "sgs_5783_20261030.csv",
+    "downloaded": "20261030",
+    "n_obs": 321,
+    "first": "2000-01-01",
+    "last": "2026-09-01"
+  },
+  "sgs_5786": {
+    "key": "primary_regional",
+    "file": "sgs_5786_20261030.csv",
+    "downloaded": "20261030",
+    "n_obs": 321,
+    "first": "2000-01-01",
+    "last": "2026-09-01"
+  },
+  "sgs_5760": {
+    "key": "interest_consolidated",
+    "file": "sgs_5760_20261030.csv",
+    "downloaded": "20261030",
+    "n_obs": 287,
+    "first": "2002-11-01",
+    "last": "2026-09-01"
+  },
+  "sidra_1846_v585": {
+    "key": "gdp_nominal",
+    "file": "sidra_1846_v585_20261030.csv",
+    "downloaded": "20261030",
+    "variable_name": "Valores a preços correntes",
+    "category_name": "PIB a preços de mercado",
+    "unit": "Milhões de Reais",
+    "first": "1996Q1",
+    "last": "2026Q2"
+  },
+  "sidra_1620_v583": {
+    "key": "gdp_real_index",
+    "file": "sidra_1620_v583_20261030.csv",
+    "downloaded": "20261030",
+    "variable_name": "Série encadeada do índice de volume trimestral (Base: média 1995 = 100)",
+    "category_name": "PIB a preços de mercado",
+    "unit": "Número-índice",
+    "first": "1996Q1",
+    "last": "2026Q2"
+  }
+}
